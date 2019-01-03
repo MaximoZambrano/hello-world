@@ -1,1 +1,2 @@
 Edit done in Master
+testing changes in a file inside a folder.
